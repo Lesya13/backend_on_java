@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jspringbot:robotframework:2.7.7.0.TEST">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jspringbot/robotframework/2.7.7.0.TEST/robotframework-2.7.7.0.TEST.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jspringbot/robotframework/2.7.7.0.TEST/robotframework-2.7.7.0.TEST-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jspringbot/robotframework/2.7.7.0.TEST/robotframework-2.7.7.0.TEST-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
